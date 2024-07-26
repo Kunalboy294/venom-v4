@@ -11,8 +11,8 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from config import BOT_TOKEN, ADMIN_IDS, OWNER_USERNAME
 
 
-USER_FILE = "users.json"
-KEY_FILE = "keys.json"
+USER_FILE = "6485558034:AAHavkh_Izcgtj-Pzs3D7MYRAKzHzdKlgcc"
+KEY_FILE = "7245486488"
 
 flooding_process = None
 flooding_command = None
